@@ -3,7 +3,7 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-## ☑️ Memory manadgment  
+##  Memory manadgment  
 
   - [ ] Stack and Heap
   - [ ] Value vs Reference type
