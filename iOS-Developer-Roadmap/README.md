@@ -124,10 +124,10 @@
 ## Design principles
 
 - [ ] [`SOLID`]()
-  - [ ] Single responsibility principle
+  - [X] Single responsibility principle
   - [ ] Open/closed principle
   - [ ] Liskov substitution principle
-  - [ ] Interface segregation principle
+  - [X] Interface segregation principle
   - [ ] Dependency inversion principle
 - [ ] Inversion of Control
 - [ ] Dependency Injection
@@ -251,8 +251,8 @@
 ## Books 
 
 - [ ] [`Ray Wenderlich`]()
-  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◼◼◼◽◽◽◽◽◽◽ 33%
-  - [ ] Animations&nbsp;◼◽◽◽◽◽◽◽◽◽ 14%
+  - [ ] RxSwift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◽◽◽◽◽◽◽◽◽◽ 0%
+  - [ ] Animations&nbsp;◽◽◽◽◽◽◽◽◽◽ 0%
 - [ ] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## Course and tutorials
