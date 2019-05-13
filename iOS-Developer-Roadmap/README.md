@@ -3,6 +3,8 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
+https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  3%* 
+
 ##  Memory manadgment  
 
   - [ ] Stack and Heap
@@ -22,7 +24,7 @@
 - [ ] Initializers
 - [ ] Protocols
 - [ ] Struct
-- [ ] Enums
+- [X] Enums
 - [ ] Runtime
 - [ ] Method dispatch
 
@@ -148,14 +150,14 @@
 - [ ] git
 - [ ] SVN
 
-## Caching and Presistency (2/4)
+## Caching and Presistency (0/4)
 
 - [ ] Core Data
 - [ ] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
 
-## Testing (3/5)
+## Testing (0/5)
 
 - [ ] Unit Tests
 - [ ] Snapshot Tests
@@ -163,7 +165,7 @@
 - [ ] TDD
 - [ ] BDD
 
-## XCode/Tools/Debbuging (7/11)
+## XCode/Tools/Debbuging (0/11)
 
 - [ ] Workspace/cocoapods
 - [ ] Interface Builder
@@ -184,7 +186,7 @@
 - [ ] Jenkins
 - [ ] Xcode server
 
-## Computer Science knowledge (2/22)
+## Computer Science knowledge (3/22)
 
 - [ ] Algorithms
   - [ ] Sorting
@@ -199,20 +201,20 @@
   - [ ] NP Complete
   - [ ] Big-O notation
 - [ ] [`Abstract Data Types`]()
-  - [ ] Stack
-  - [ ] Array
+  - [X] Stack
+  - [X Array
   - [ ] List
   - [ ] Map
   - [ ] Multimap
   - [ ] Set
   - [ ] Multiset (Bag)
   - [ ] Graph -> Tree
-  - [ ] Queue
+  - [X] Queue
   - [ ] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
-## Programming Paradigms (3/16)
+## Programming Paradigms (0/16)
 
   - [ ] Protocol-Oriented 
   - [ ] OOP
