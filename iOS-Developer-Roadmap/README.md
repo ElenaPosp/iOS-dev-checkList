@@ -3,7 +3,7 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6%* 
+https://www.hackingwithswift.com/100 - *Progress: ◼◽◽◽◽◽◽◽◽  13%* 
 
 ##  Memory manadgment  
 
@@ -19,11 +19,11 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
 
 ## Swift
 
-- [ ] Closures
+- [X] Closures
 - [ ] Generics
 - [ ] Initializers
-- [ ] Protocols
-- [ ] Struct
+- [X] Protocols
+- [X ] Struct
 - [X] Enums
 - [ ] Runtime
 - [ ] Method dispatch
@@ -50,14 +50,14 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
 - [ ] UIApplication
 - [ ] UIApplication: States
 - [ ] [`UIViews`]()
-  - [ ] UITableViews
+  - [X] UITableViews
   - [ ] UICollectionViews
 - [ ] [`Layout`]()
   - [ ] Frame-based
   - [ ] Autolayout
 - [ ] Navigation
 - [ ] UIViewController
-- [ ] UIViewController: Lifecycle
+- [X] UIViewController: Lifecycle
 
 ## Networking
 
@@ -96,7 +96,7 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
   - [ ] Factory Method
   - [ ] Prototype
   - [ ] Object Pool
-  - [ ] Singleton
+  - [X] Singleton
 - [ ] [`Structural`]()
   - [ ] Adapter
   - [ ] Bridge
@@ -132,9 +132,9 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
   - [X] Interface segregation principle
   - [ ] Dependency inversion principle
 - [ ] Inversion of Control
-- [ ] Dependency Injection
-- [ ] Dry (don't repeat yourself)
-- [ ] KISS (keep it simple, stupid)
+- [X] Dependency Injection
+- [X] Dry (don't repeat yourself)
+- [X] KISS (keep it simple, stupid)
 
 ## Dependency management
 
@@ -262,7 +262,7 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
 - [ ] [Multithreading](https://swiftbook.ru)
 - [ ] [TDD](https://swiftbook.ru)
 
-## Articles (43/127)
+## Articles (0/127)
 
 - [ ] [Try to catch Zombie](https://oxozle.com/2016/01/25/lovim-zombi-obuekty-v-ios-xcode-ili-kak-reshat-message-sent-to-deallocated-instance/)
 - [ ] [Apple Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/loading/)
@@ -447,6 +447,5 @@ https://www.hackingwithswift.com/100 - *Progress: ◽◽◽◽◽◽◽◽◽  6
 ![Skills matrix](matrix.png)
 
 ## Контакты для связи:
-* skype: torlopov.andrey
-* email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
-* github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
+* email: [pospelova.elena.al@gmail.com](mailto:pospelova.elena.al@gmail.com)
+* github: [https://github.com/ElenaPosp](https://github.com/ElenaPosp)
