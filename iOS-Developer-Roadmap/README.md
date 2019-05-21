@@ -3,7 +3,7 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-https://www.hackingwithswift.com/100 - *Progress: ◼◼◽◽◽◽◽◽◽  18%* 
+https://www.hackingwithswift.com/100 - *Progress: ◼◼◽◽◽◽◽◽◽  20%* 
 
 ##  Memory manadgment  
 
