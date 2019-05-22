@@ -21,9 +21,9 @@ https://www.hackingwithswift.com/100 - *Progress: ◼◼◽◽◽◽◽◽◽  2
 
 - [X] Closures
 - [ ] Generics
-- [ ] Initializers
+- [X] Initializers
 - [X] Protocols
-- [X ] Struct
+- [X] Struct
 - [X] Enums
 - [ ] Runtime
 - [ ] Method dispatch
