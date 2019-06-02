@@ -444,7 +444,3 @@
 
 ![Skills matrix](matrix.png)
 
-## Контакты для связи:
-* skype: torlopov.andrey
-* email: [torlopov.andrey@gmail.com](mailto:torlopov.andrey@gmail.com)
-* github: [https://github.com/Torlopov-Andrey](https://github.com/Torlopov-Andrey)
