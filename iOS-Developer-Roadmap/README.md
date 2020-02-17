@@ -3,8 +3,8 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  40%* 
-
+- https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  40%* 
+- https://www.hackingwithswift.com/100/swiftui - *Progress: ◽◽◽◽◽◽◽◽◽  0%* 
 ##  Memory manadgment  
 
   - [ ] Stack and Heap
@@ -20,7 +20,7 @@ https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  4
 ## Swift
 
 - [X] Closures
-- [ ] Generics
+- [X] Generics
 - [X] Initializers
 - [X] Protocols
 - [X] Struct
@@ -216,9 +216,9 @@ https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  4
 
 ## Programming Paradigms (0/16)
 
-  - [ ] Protocol-Oriented 
-  - [ ] OOP
-  - [ ] Functional
+  - [X] Protocol-Oriented 
+  - [X] OOP
+  - [X] Functional
   - [ ] React Native
   - [ ] RxSwift
   - [ ] RxRealm, RxDataSources
@@ -226,7 +226,6 @@ https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  4
 ## Libs, frameworks, pods, Kit's
 
 - [ ] ObjectMapper (pod)
-- [ ] Charts (pod)
 - [ ] Payments and subscription
 - [ ] Moya
 - [ ] BLE (Bluetooth Low Energy)
