@@ -3,8 +3,9 @@
 <!-- **Progress: ◽◽◽◽◽◽◽◽◽  0.0001%** -->
 <!-- ☑️ -->
 
-- https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◽◽◽◽◽  40%* 
+- https://www.hackingwithswift.com/100 - *Progress: ◼◼◼◼◼◽◽◽◽  50%* 
 - https://www.hackingwithswift.com/100/swiftui - *Progress: ◽◽◽◽◽◽◽◽◽  0%* 
+
 ##  Memory manadgment  
 
   - [ ] Stack and Heap
